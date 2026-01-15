@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋
 
 
-<!-- **23f1002440KP/23f1002440KP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **YamiNo-Okami/23f1002440KP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
 
@@ -16,8 +16,8 @@
 
 # Hi there, I'm Krishna Prajapati 👋
 
-![GitHub followers](https://img.shields.io/github/followers/23f1002440KP?label=Follow&style=social) 
-![GitHub stars](https://img.shields.io/github/stars/23f1002440KP?style=social)
+![GitHub followers](https://img.shields.io/github/followers/YamiNo-Okami?label=Follow&style=social) 
+![GitHub stars](https://img.shields.io/github/stars/YamiNo-Okami?style=social)
 
 I’m a passionate developer currently pursuing my [Bachelor’s in Data Science and Application Development from IITM](https://www.iitm.ac.in/). I love exploring and working on open-source projects, as well as building innovative solutions to real-world problems.
 
